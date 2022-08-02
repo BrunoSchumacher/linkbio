@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #056571, #bcc9cf);
+    background-image: linear-gradient(to right, #056571, #e3e6e7);
 }
 
 .link-bio {
@@ -61,4 +61,6 @@ h1 {
 
     font-style: normal;
 }
+
+
 
